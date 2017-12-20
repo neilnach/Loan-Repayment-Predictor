@@ -1,5 +1,5 @@
 # Loan-Repayment-Predictor
-Loan Repayment predictions using gradient boosted deicison trees
+Loan Repayment predictions using gradient boosted deicison trees. Model code is in the kaggle.ipynb file. 
 
 The model was tree ensembles used from the XGBoost API, with all of the features being my xi and the status being my yi. 
 
